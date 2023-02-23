@@ -3,6 +3,8 @@
 
 * [HOME](./)
 
+* [1.ControleDoDocumento](./ControleDoDocumento/controleDoDocumento_Index.md) 
+* [2.OverviewSqoLean](./2.OverviewSQOLean/overviewSQOLean.md)
 * [Tutorials](./tutorials/index)
   * [Tomcat](./tutorials/tomcat/index)
   * [Cloud](./tutorials/cloud/index)
