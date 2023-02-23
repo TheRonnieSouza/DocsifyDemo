@@ -1,2 +1,0 @@
-# DocsifyDemo
-Exemple docsify demo 
