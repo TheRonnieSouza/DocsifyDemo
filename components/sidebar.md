@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+
+
 
 * [1.ControleDoDocumento](./ControleDoDocumento/controleDoDocumento_Index.md) 
 * [2.OverviewSqoLean](./2.OverviewSQOLean/overviewSQOLean.md)
