@@ -15,12 +15,29 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      homepage: "Pages/Readme.md",
+      homepage: "Pages/home.md",
       loadSidebar: true,
       loadSidebar:"components/sidebar.md",
       routermode:"history",
+      name: "<span>softdesign doc</span>",
+      nameLink: "/",
       auto2top: true,
-      
+      pagination:{
+        previousText : "Anterior",
+        nextText: "Próximo",
+        crossChapter:false,
+        crossChapterText: false,
+      },
+      search:{
+        maxAge: 86400000,
+        paths: "auto",
+        plaholder: "Digite aqui para pesquisar...",
+        noData: "Nenhum resultado encotrado",
+        hideOtherSiderBarContent: false,
+      },
+        tabs: {
+          theme: "material",
+        },
 
       el: "#app",
       repo: 'https://theronniesouza.github.io/DocsifyDemo',
